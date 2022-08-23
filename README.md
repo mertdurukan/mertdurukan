@@ -7,6 +7,7 @@ I'm a Software Developer. I'm passionate about Software development and Machine 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertdurukan&theme=dark&show_icons=true)
 
 📊  This week I spent my time on
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
