@@ -4,6 +4,9 @@ I'm a Software Developer. I'm passionate about Software development and Machine 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mertdurukan)](https://github.com/ryo-ma/github-profile-trophy)
 
+Languages
+[CSharp] [Python] [TypeScript] [JavaScript] [Java] [C++] [HTML] [CSS]
+
 <!--
 **mertdurukan/mertdurukan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
