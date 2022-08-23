@@ -4,6 +4,11 @@
 
 I'm a Software Developer. I'm passionate about Software development and Machine Learning.
 
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
+
 <!--💬 **Social** -->
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
