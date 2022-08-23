@@ -3,6 +3,10 @@
 ![alt text](https://github.com/mertdurukan/images/blob/main/be.jpg "Be();")
 
 I'm a Software Developer. I'm passionate about Software development and Machine Learning.
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertdurukan)
+<!--💬 **Social** -->
+
 
 ✅ Printing the "Hello World !"
 
@@ -15,11 +19,6 @@ I'm a Software Developer. I'm passionate about Software development and Machine 
 
 ⬜ 1 and 3 year mid-long term hidden goals.
 
-
-<!--💬 **Social** -->
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertdurukan)
 
 🔭 The heavens showed me that I can always do better.
 
