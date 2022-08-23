@@ -1,4 +1,4 @@
-### Hi, I'm MERT 👨🏻‍💻🛠️
+### Hi, I'm MERT 👨🏻‍💻
 
 I'm a Software Developer. I'm passionate about Software development and Machine Learning.
 
@@ -12,9 +12,9 @@ I'm a Software Developer. I'm passionate about Software development and Machine 
 
 ⚡ Fun fact: I love chatting with smart and cultured people.
 
-😻 Every person means an extra brain movement.
+😻 Every person means an extra brain movement.[![trophy](https://github-profile-trophy.vercel.app/?username=mertdurukan)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mertdurukan)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertdurukan&theme=dark&show_icons=true)
 
