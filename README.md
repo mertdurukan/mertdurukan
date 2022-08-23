@@ -106,7 +106,7 @@ I'm a Software Developer. I'm passionate about Software development and Machine 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mertdurukan&repo=Card_Distribution_Console_App)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mertdurukan&repo=gunguntakipapi)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mertdurukan&repo=gunguntakipmobile)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mertdurukan&repo=Card_Distribution_Console_App)](https://github.com/anuraghazra/github-readme-stats)
 
 ``` javascript
 While (isOxygenEnough){
