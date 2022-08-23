@@ -13,6 +13,13 @@ Technologies
 ASP.NET Core Entity Framework Core SignalR Blazor Flask Vue Angular xUnit WCF LLBLGen FluentValidation Material Design Bootstrap JQuery Markdown SQL Postgres MySQL Git Open Source Jira Docker AWS Azure
 
 
+📊  This week I spent my time on
+
+Wwakatime stats
+
+
+
+
 
 <!--
 **mertdurukan/mertdurukan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
