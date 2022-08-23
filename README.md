@@ -27,7 +27,7 @@ I'm a Software Developer. I'm passionate about Software Development and Machine 
 
 🥅 2022 Goals: Learn more about software architecture.
 
-⚡ Fun fact: I love chatting with smart and cultured people.
+⚡ Fun fact: I like meeting people which is enjoy improving theirselves and from diffrent cultures.
 
 😻 Every person means an extra brain movement.
 
