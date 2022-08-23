@@ -1,5 +1,8 @@
 ### Hi, I'm MERT 👨🏻‍💻
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+
+
 I'm a Software Developer. I'm passionate about Software development and Machine Learning.
 
 🔭 The heavens showed me that I can always do better.
