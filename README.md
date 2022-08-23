@@ -102,7 +102,7 @@ I'm a Software Developer. I'm passionate about Software development and Machine 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertdurukan&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mertdurukan&repo=Card_Distribution_Console_App)](https://github.com/anuraghazra/github-readme-stats)
 
-``` 
+``` javascript
 While (isOxygenEnough){
     be();
 } 
