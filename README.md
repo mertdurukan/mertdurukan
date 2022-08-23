@@ -6,6 +6,7 @@ I'm a Software Developer. I'm passionate about Software development and Machine 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertdurukan&theme=dark&show_icons=true)
 
+📊  This week I spent my time on
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -16,12 +17,6 @@ Languages
 Technologies
 ASP.NET Core Entity Framework Core SignalR Blazor Flask Vue Angular xUnit WCF LLBLGen FluentValidation Material Design Bootstrap JQuery Markdown SQL Postgres MySQL Git Open Source Jira Docker AWS Azure
 
-
-📊  This week I spent my time on
-
-Wwakatime stats
-
-📊  This week I spent my time on
 
 
 
