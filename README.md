@@ -1,8 +1,8 @@
 ### Hi, I'm MERT 👨🏻‍💻
 
-I'm a Software Developer. I'm passionate about Software development and Machine Learning.
 ![alt text](https://github.com/mertdurukan/images/blob/main/be.jpg "Be();")
 
+I'm a Software Developer. I'm passionate about Software development and Machine Learning.
 
 <!--💬 **Social** -->
 
