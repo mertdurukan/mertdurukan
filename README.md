@@ -6,13 +6,9 @@ I'm a Software Developer. I'm passionate about Software development and Machine 
 
 ✅ Printing the "Hello World !"
 ✅ Coffee holds a big place in my life.
-
 ✅ Bachelor's degree in Computer Engineering.
-
 ✅ Founding member of fantastic coders association.
-
 ⬜ 1 and 3 year mid-long term hidden goals.
-
 
 <!--💬 **Social** -->
 
