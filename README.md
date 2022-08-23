@@ -6,7 +6,7 @@ I'm a Software Developer. I'm passionate about Software development and Machine 
 
 - [x] Bachelor's degree in computer engineering
 - [x] Founding member of fantastic coders association
-- [ ] 1 and 3 year mid-long term hidden goals :tada:
+- [ ] 1 and 3 year mid-long term hidden goals
 
 
 <!--💬 **Social** -->
