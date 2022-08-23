@@ -4,9 +4,9 @@
 
 I'm a Software Developer. I'm passionate about Software development and Machine Learning.
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [x] Bachelor's degree in computer engineering
+- [x] Founding member of fantastic coders association
+- [ ] 1 and 3 year mid-long term hidden goals :tada:
 
 
 <!--💬 **Social** -->
