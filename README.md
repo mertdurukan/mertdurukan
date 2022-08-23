@@ -17,6 +17,13 @@ ASP.NET Core Entity Framework Core SignalR Blazor Flask Vue Angular xUnit WCF LL
 
 Wwakatime stats
 
+📊  This week I spent my time on
+
+
+
+🛠️  Languages and Tools
+
+angular apachecordova aws azure bash bootstrap c circleci cplusplus css3 cypress docker elasticsearch express flask gcp git grafana graphql heroku html5 hugo jasmine javascript jekyll jenkins jest karma kibana kubernetes linux mocha mongodb mssql mysql nginx nodejs php postgresql postman puppeteer python react redis sass selenium sqlite travisci typescript
 
 
 
