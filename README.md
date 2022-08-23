@@ -106,7 +106,6 @@ While (isOxygenEnough){
     be();
 } 
 ```
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertdurukan&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
