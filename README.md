@@ -4,6 +4,7 @@ I'm a Software Developer. I'm passionate about Software development and Machine 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mertdurukan)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertdurukan&theme=dark&show_icons=true)
 
 Languages
 [CSharp] [Python] [TypeScript] [JavaScript] [Java] [C++] [HTML] [CSS]
