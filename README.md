@@ -1,6 +1,8 @@
 ### Hi, I'm MERT 👨🏻‍💻
 
 I'm a Software Developer. I'm passionate about Software development and Machine Learning.
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 
 <!--💬 **Social** -->
 
