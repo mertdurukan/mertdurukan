@@ -4,7 +4,7 @@
 
 I'm a Software Developer. I'm passionate about Software development and Machine Learning.
 
-✅ Printing the "Hello World !"
+✅ Print the "Hello World !"
 
 ✅ Coffee holds a big place in my life.
 
