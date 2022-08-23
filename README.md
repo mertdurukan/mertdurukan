@@ -3,11 +3,17 @@
 I'm a Software Developer. I'm passionate about Software development and Machine Learning.
 
 🔭 Check out my VS Code course: Become A VS Code SuperHero!!
+
 🌱 I’m currently learning everything 🤣
+
 👯 I’m looking to collaborate with other content creators
+
 🥅 2022 Goals: Learn more about web3
+
 ⚡ Fun fact: I love to draw and play guitar / drums
+
 😻 Check out the NFT collection I created: CodeCats
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mertdurukan)](https://github.com/ryo-ma/github-profile-trophy)
