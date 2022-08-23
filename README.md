@@ -4,9 +4,7 @@ I'm a Software Developer. I'm passionate about Software development and Machine 
 
 <!--💬 **Social** -->
 
-![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 🔭 The heavens showed me that I can always do better.
@@ -124,4 +122,6 @@ While (isOxygenEnough){
 <!--
 📊 This week I spent my time on
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mertdurukan)](https://github.com/anuraghazra/github-readme-stats)
+![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
 -->
