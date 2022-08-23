@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Mert DURUKAN ⚡
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mertdurukan)](https://github.com/ryo-ma/github-profile-trophy)
 
