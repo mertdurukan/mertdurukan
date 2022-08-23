@@ -109,16 +109,9 @@ While (isOxygenEnough){
 } 
 ```
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=mertdurukan)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertdurukan&theme=dark&show_icons=true)
 
 📊 This week I spent my time on
-
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mertdurukan)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mertdurukan)](https://github.com/anuraghazra/github-readme-stats)
-
-
