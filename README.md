@@ -6,12 +6,10 @@ I'm a Software Developer. I'm passionate about Software development and Machine 
 
 
 Languages
-
 [CSharp] [Python] [TypeScript] [JavaScript] [Java] [C++] [HTML] [CSS]
 
 
 Technologies
-
 ASP.NET Core Entity Framework Core SignalR Blazor Flask Vue Angular xUnit WCF LLBLGen FluentValidation Material Design Bootstrap JQuery Markdown SQL Postgres MySQL Git Open Source Jira Docker AWS Azure
 
 
