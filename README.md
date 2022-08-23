@@ -36,8 +36,6 @@ I'm a Software Developer. I'm passionate about Software development and Machine 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)]
 
-[CSharp] [Python] [TypeScript] [JavaScript] [Java] [C++] [HTML] [CSS]
-
 💾 Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
