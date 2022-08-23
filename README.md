@@ -7,7 +7,7 @@ I'm a Software Developer. I'm passionate about Software development and Machine 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-[I'm an inline-style link](https://www.google.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com)
 
 🔭 The heavens showed me that I can always do better.
 
