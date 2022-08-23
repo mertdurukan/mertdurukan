@@ -101,13 +101,13 @@ I'm a Software Developer. I'm passionate about Software development and Machine 
 [![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)]
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertdurukan&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
 ``` javascript
 While (isOxygenEnough){
     be();
 } 
 ```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertdurukan&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mertdurukan&repo=Card_Distribution_Console_App)](https://github.com/anuraghazra/github-readme-stats)
