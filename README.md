@@ -1,4 +1,6 @@
 ### Hi, I'm MERT 👨🏻‍💻
+https://img.shields.io/github/license/{username}/{repo-name}.svg
+
 
 I'm a Software Developer. I'm passionate about Software development and Machine Learning.
 
