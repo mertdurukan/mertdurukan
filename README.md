@@ -20,7 +20,7 @@ I'm a Software Developer. I'm passionate about Software development and Machine 
 
 📊  This week I spent my time on
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mertdurukan)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertdurukan&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
