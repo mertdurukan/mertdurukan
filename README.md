@@ -1,7 +1,6 @@
 ### Hi, I'm MERT 👨🏻‍💻
 
-![alt text](https://github.com/mertdurukan/images/blob/main/be.jpg "Be();")
-
+![alt text](https://github.com/mertdurukan/images/blob/main/metaverse.png "Metaverse();")
 I'm a Software Developer. I'm passionate about Software Development and Machine Learning.
 
 ✅ Print the "Hello World!"
