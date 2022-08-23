@@ -1,4 +1,4 @@
-### Hi, I'm MERT 👨🏻‍💻
+### Hi, I'm MERT 👨🏻‍💻🛠️
 
 I'm a Software Developer. I'm passionate about Software development and Machine Learning.
 
@@ -112,12 +112,4 @@ I'm a Software Developer. I'm passionate about Software development and Machine 
 ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-
-
-ASP.NET Core Entity Framework Core SignalR Blazor Flask Vue Angular xUnit WCF LLBLGen FluentValidation Material Design Bootstrap JQuery Markdown SQL Postgres MySQL Git Open Source Jira Docker AWS Azure
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mertdurukan&repo=Card_Distribution_Console_App)](https://github.com/anuraghazra/github-readme-stats)
-
-🛠️  Languages and Tools
-
-angular apachecordova aws azure bash bootstrap c circleci cplusplus css3 cypress docker elasticsearch express flask gcp git grafana graphql heroku html5 hugo jasmine javascript jekyll jenkins jest karma kibana kubernetes linux mocha mongodb mssql mysql nginx nodejs php postgresql postman puppeteer python react redis sass selenium sqlite travisci typescript
