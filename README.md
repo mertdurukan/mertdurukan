@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/mertdurukan/images/blob/main/be.jpg "Be();")
 
-I'm a Software Developer. I'm passionate about Software development and Machine Learning.
+I'm a Software Developer. I'm passionate about Software Development and Machine Learning.
 
 ✅ Print the "Hello World !"
 
