@@ -14,16 +14,6 @@ I'm a Software Developer. I'm passionate about Software development and Machine 
 
 😻 Every person means an extra brain movement.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mertdurukan)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertdurukan&theme=dark&show_icons=true)
-
-📊 This week I spent my time on
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mertdurukan)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertdurukan&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 📋 Languages
@@ -113,3 +103,14 @@ I'm a Software Developer. I'm passionate about Software development and Machine 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mertdurukan&repo=Card_Distribution_Console_App)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mertdurukan)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertdurukan&theme=dark&show_icons=true)
+
+📊 This week I spent my time on
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mertdurukan)](https://github.com/anuraghazra/github-readme-stats)
+
