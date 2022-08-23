@@ -109,9 +109,11 @@ While (isOxygenEnough){
 } 
 ```
 
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mertdurukan&repo=Card_Distribution_Console_App)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mertdurukan&repo=gunguntakipapi)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mertdurukan&repo=gunguntakipmobile)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=mertdurukan)](https://github.com/ryo-ma/github-profile-trophy)
