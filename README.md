@@ -24,19 +24,13 @@ I'm a Software Developer. I'm passionate about Software development and Machine 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertdurukan&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
 Languages
 [CSharp] [Python] [TypeScript] [JavaScript] [Java] [C++] [HTML] [CSS]
-
 
 Technologies
 ASP.NET Core Entity Framework Core SignalR Blazor Flask Vue Angular xUnit WCF LLBLGen FluentValidation Material Design Bootstrap JQuery Markdown SQL Postgres MySQL Git Open Source Jira Docker AWS Azure
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mertdurukan&repo=Card_Distribution_Console_App)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 🛠️  Languages and Tools
 
