@@ -10,7 +10,7 @@ I'm a Software Developer. I'm passionate about Software Development and Machine 
 
 ✅ Bachelor's degree in Computer Engineering.
 
-✅ Founding member of Fantastic Coders association.
+✅ Founding member of Fantastic Coders Association.
 
 ⬜ 1 and 3 year mid-long term hidden goals.
 
