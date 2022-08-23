@@ -1,5 +1,7 @@
 ### Hi, I'm MERT 👨🏻‍💻
 
+I'm a Software Developer. I'm passionate about Software development and Machine Learning.
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mertdurukan)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
