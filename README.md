@@ -23,7 +23,7 @@ I'm a Software Developer. I'm passionate about Software Development and Machine 
 
 🌱 I’m currently developing some of my skills 🤣 And I know that is no ending of learning.
 
-👯 I'm looking to collaborate with other tech lover.
+👯 I'm looking to collaborate with other tech lovers.
 
 🥅 2022 Goals: Learn more about software architecture.
 
