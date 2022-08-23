@@ -4,8 +4,6 @@
 
 I'm a Software Developer. I'm passionate about Software Development and Machine Learning.
 
-![alt text](https://github.com/mertdurukan/images/blob/main/metaverse.png "Metaverse")
-
 ✅ Print the "Hello World!"
 
 ✅ Coffee holds a big place in my life.
