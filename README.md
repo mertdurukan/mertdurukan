@@ -29,7 +29,7 @@ I'm a Software Developer. I'm passionate about Software Development and Machine 
 
 ⚡ Fun fact: I like meeting people which is enjoy improving theirselves and from diffrent cultures.
 
-😻 Every person means an extra brain movement.
+😻 Every conversation means an extra brain movement.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mertdurukan)](https://github.com/ryo-ma/github-profile-trophy)
 
