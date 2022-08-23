@@ -4,8 +4,17 @@ I'm a Software Developer. I'm passionate about Software development and Machine 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mertdurukan)](https://github.com/ryo-ma/github-profile-trophy)
 
+
 Languages
+
 [CSharp] [Python] [TypeScript] [JavaScript] [Java] [C++] [HTML] [CSS]
+
+
+Technologies
+
+ASP.NET Core Entity Framework Core SignalR Blazor Flask Vue Angular xUnit WCF LLBLGen FluentValidation Material Design Bootstrap JQuery Markdown SQL Postgres MySQL Git Open Source Jira Docker AWS Azure
+
+
 
 <!--
 **mertdurukan/mertdurukan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
