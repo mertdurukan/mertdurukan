@@ -14,7 +14,7 @@ I'm a Software Developer. I'm passionate about Software Development and Machine 
 
 ⬜ To graduate from postgraduate education
 
-⬜ 1 and 3 year mid-long term hidden goals.
+⬜ 1 and 3 year mid-long term goals.
 
 <!--💬 **Social** -->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1mertdurukan@gmail.com)
