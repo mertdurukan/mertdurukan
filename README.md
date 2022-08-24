@@ -12,6 +12,8 @@ I'm a Software Developer. I'm passionate about Software Development and Machine 
 
 ✅ Founding member of Fantastic Coders Association.
 
+⬜ To graduate from postgraduate education
+
 ⬜ 1 and 3 year mid-long term hidden goals.
 
 <!--💬 **Social** -->
