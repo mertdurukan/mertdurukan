@@ -1,6 +1,6 @@
 ### Hi, I'm MERT 👨🏻‍💻
 
-![alt text](https://github.com/mertdurukan/mertdurukan/be.jpg "Be();")
+![alt text](https://github.com/mertdurukan/mertdurukan/blob/main/be.jpg "Be();")
 
 I'm a Software Developer. I'm passionate about Software Development and Machine Learning.
 
