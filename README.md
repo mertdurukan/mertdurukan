@@ -111,15 +111,12 @@ While (isOxygenEnough){
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertdurukan&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 <img alt="Coder GIF" height=165 width=300 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
-
-
+<img alt="Coder GIF" height=165 width=300 src="https://media2.giphy.com/media/hu9xj9UtxpoY3oytsh/giphy.gifcid=790b76117f18f359a2d629b3bec598110fb7e099df5ae49b&rid=giphy.gif"/>
+<img alt="Coder GIF" height=165 width=300 src="https://media1.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gifcid=790b761122256b3054ddf8eba2c342a8fd0ac41d942e02a5&rid=giphy.gif"/>
 
 
 <!--
-
 [![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)]
-
-
 🎛️ **Operating System**
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]
@@ -134,7 +131,6 @@ While (isOxygenEnough){
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)]
 [![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)] 
 -->
-
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mertdurukan&repo=Card_Distribution_Console_App)](https://github.com/anuraghazra/github-readme-stats)
