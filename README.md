@@ -110,7 +110,7 @@ While (isOxygenEnough){
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertdurukan&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-<img alt="Coder GIF" height=300 width=165 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+<img alt="Coder GIF" height=165 width=300 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 
 
 
