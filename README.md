@@ -2,6 +2,8 @@
 
 ### Hi, I'm MERT 👨🏻‍💻
 
+<img src="https://komarev.com/ghpvc/?username=mertdurukan &label=Profile%20views&color=0e75b6&style=flat" alt="mertdurukan" />
+
 I'm a Software Developer. I'm passionate about Software Development and Machine Learning.
 
 ✅ Print the "Hello World!"
