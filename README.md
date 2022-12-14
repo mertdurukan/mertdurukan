@@ -33,10 +33,16 @@ I'm a Software Developer. I'm passionate about Software Development and Machine 
 
 😻 Every conversation means an extra brain movement.
 
+``` javascript
+While (isOxygenEnough){    // I am grateful for the existence of algae.
+    be();                  // Maslow's Hierarchy of Needs
+    toCode();              // Do it until the end of your life.
+} 
+```
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mertdurukan)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertdurukan&theme=dark&show_icons=true)
-
 
 📋 **Languages**
 
@@ -99,15 +105,6 @@ I'm a Software Developer. I'm passionate about Software Development and Machine 
 
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)]
 [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)]
-
-
-``` javascript
-While (isOxygenEnough){
-    be();
-    toCode();
-} 
-```
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertdurukan&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 <img alt="Coder GIF" height=165 width=300 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
