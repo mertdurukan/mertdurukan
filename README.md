@@ -1,6 +1,12 @@
-![alt text](https://github.com/mertdurukan/mertdurukan/blob/main/be.jpg "Be();")
+<p float="left">
+    <img alt="Coder GIF" height=200 width=700 src="https://github.com/mertdurukan/mertdurukan/blob/main/be.jpg"/>
+    <img alt="Coder GIF" height=200 width=300 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+    <img alt="Coder GIF" height=200 width=300 src="https://media2.giphy.com/media/hu9xj9UtxpoY3oytsh/giphy.gifcid=790b76117f18f359a2d629b3bec598110fb7e099df5ae49b&rid=giphy.gif"/>
+<img alt="Coder GIF" height=200 width=300 src="https://media1.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gifcid=790b761122256b3054ddf8eba2c342a8fd0ac41d942e02a5&rid=giphy.gif"/>
+</p>
 
-### Hi, I'm MERT 👨🏻‍💻 <img src="https://komarev.com/ghpvc/?username=mertdurukan &label=Profile%20views&color=0e75b6&style=flat" alt="mertdurukan" />
+---
+### Hi, I'm MERT 👨🏻‍💻
 
 I'm a Software Developer. I'm passionate about Software Development and Machine Learning.
 
@@ -16,11 +22,7 @@ I'm a Software Developer. I'm passionate about Software Development and Machine 
 
 ⬜ 1 and 3 year mid-long term goals.
 
-<!--💬 **Social** -->
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1mertdurukan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertdurukan)
-
-
+---
 🔭 The heavens showed me that I can always do better.
 
 🌱 I’m currently developing some of my skills. And I know that is no ending of learning.
@@ -33,6 +35,7 @@ I'm a Software Developer. I'm passionate about Software Development and Machine 
 
 😻 Every conversation means an extra brain movement.
 
+---
 ``` javascript
 While (isOxygenEnough){    // I am grateful for the existence of algae.
     be();                  // Maslow's Hierarchy of Needs
@@ -40,10 +43,17 @@ While (isOxygenEnough){    // I am grateful for the existence of algae.
 } 
 ```
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mertdurukan)](https://github.com/ryo-ma/github-profile-trophy)
+---
+<h1 align="center">📊 GitHub Stats: </h1>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mertdurukan&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true"></p><br/>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mertdurukan&theme=highcontrast&hide_border=true"></p><br/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertdurukan&langs_count=6&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact"></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertdurukan&theme=dark&show_icons=true)
+<h1 align="center">🏆 GitHub Trophies </h1>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mertdurukan&no-frame=false&no-bg=true&margin-w=4"></p>
 
+---
 📋 **Languages**
 
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)]
@@ -106,10 +116,23 @@ While (isOxygenEnough){    // I am grateful for the existence of algae.
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)]
 [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertdurukan&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-<img alt="Coder GIF" height=165 width=300 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
-<img alt="Coder GIF" height=165 width=300 src="https://media2.giphy.com/media/hu9xj9UtxpoY3oytsh/giphy.gifcid=790b76117f18f359a2d629b3bec598110fb7e099df5ae49b&rid=giphy.gif"/>
-<img alt="Coder GIF" height=165 width=300 src="https://media1.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gifcid=790b761122256b3054ddf8eba2c342a8fd0ac41d942e02a5&rid=giphy.gif"/>
+---
+💬 **Social**
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1mertdurukan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertdurukan)
+
+<img align="right" src="https://komarev.com/ghpvc/?username=mertdurukan &label=Profile%20views&color=0e75b6&style=flat" alt="mertdurukan"/>
+
+---
+
+
+
+
+
+
+
+
 
 
 <!--
@@ -140,4 +163,8 @@ While (isOxygenEnough){    // I am grateful for the existence of algae.
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mertdurukan)](https://github.com/anuraghazra/github-readme-stats)
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
+
+
+---
+![alt text](https://github.com/mertdurukan/mertdurukan/blob/main/be.jpg "Be();" ) 
 -->
