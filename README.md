@@ -1,5 +1,5 @@
 <p float="left">
-    <img alt="Coder GIF" height=200 width=500 src="https://github.com/mertdurukan/mertdurukan/blob/main/be.jpg"/>
+    <img alt="Coder GIF" height=200 width=550 src="https://github.com/mertdurukan/mertdurukan/blob/main/be.jpg"/>
     <img alt="Coder GIF" height=200 width=300 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
     <img alt="Coder GIF" height=200 width=300 src="https://media2.giphy.com/media/hu9xj9UtxpoY3oytsh/giphy.gifcid=790b76117f18f359a2d629b3bec598110fb7e099df5ae49b&rid=giphy.gif"/>
 
