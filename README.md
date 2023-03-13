@@ -27,7 +27,7 @@ I'm a Software Developer. I'm passionate about Software Development and Machine 
 
 👯 I'm looking to collaborate with other tech lovers.
 
-🥅 2022 Goals: Learn more about software architecture.
+🥅 2023 Goals: Complete dominance of devops processes. Full adoption of blockchain technology.
 
 ⚡ Fun fact: I like meeting people which is enjoy improving theirselves and from diffrent cultures.
 
