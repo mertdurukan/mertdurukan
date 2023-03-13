@@ -23,7 +23,7 @@ I'm a Software Developer. I'm passionate about Software Development and Machine 
 ---
 🔭 The heavens showed me that I can always do better.
 
-🌱 I’m currently developing some of my skills. And I know that is no ending of learning.
+🌱 I’m currently developing some of my skills. And I know is no ending of learning.
 
 👯 I'm looking to collaborate with other tech lovers.
 
