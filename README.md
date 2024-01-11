@@ -27,7 +27,7 @@ I'm a Software Developer. I'm passionate about Software Development and Machine 
 
 👯 I'm looking to collaborate with other tech lovers.
 
-🥅 2024 Goals: Loading...
+🥅 2024 targets are being completed one by one. 2025 Goals: Loading...
 
 ⚡ Fun fact: I like meeting people which is enjoy improving theirselves and from diffrent cultures.
 
