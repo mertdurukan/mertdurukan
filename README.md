@@ -14,9 +14,9 @@ I'm a Software Developer. I'm passionate about Software Development and Machine 
 
 ✅ Bachelor's degree in Computer Engineering.
 
-✅ Founding member of Fantastic Coders Association.
+✅ Founding member of Personal Development and Entrepreneurship Community.
 
-⬜ To graduate from postgraduate education
+⬜ Graduating from a graduate program in artificial intelligence.
 
 ⬜ 1 and 3 year mid-long term goals.
 
