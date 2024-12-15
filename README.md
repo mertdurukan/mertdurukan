@@ -23,15 +23,15 @@ I'm a Software Developer. I'm passionate about Software Development and Machine 
 ---
 🔭 The heavens showed me that I can always do better.
 
-🌱 I’m currently developing some of my skills. And I know is no ending of learning.
+🌱 I am currently developing some of my skills. And I know that there is no end to learning.
 
-👯 I'm looking to collaborate with other tech lovers.
+👯 I am positive to cooperation offers with other tech lovers.
 
-🥅 2024 targets are being completed one by one. 2025 Goals: Loading...
+🥅 2024 goals are being completed one by one. 2025 Goals: Loading...
 
-⚡ Fun fact: I like meeting people which is enjoy improving theirselves and from diffrent cultures.
+Fun fact I am a person who enjoys self-improvement and I love meeting people from different cultures.
 
-😻 Every conversation means an extra brain movement.
+😻 Every conversation means an extra synapse interaction, it starts the development of ideas.
 
 ---
 ``` javascript
