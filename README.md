@@ -14,8 +14,6 @@ I'm a Software Developer. I'm passionate about Software Development and Machine 
 
 ✅ Bachelor's degree in Computer Engineering.
 
-✅ Founding member of Personal Development and Entrepreneurship Community.
-
 ⬜ Graduating from a master's program equipped with artificial intelligence.
 
 ⬜ 1 and 3 year mid-long term goals.
