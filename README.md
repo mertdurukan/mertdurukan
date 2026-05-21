@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mertdurukan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mert@durukan.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://1mert.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=about.me&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
