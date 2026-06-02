@@ -38,5 +38,3 @@ Hands-on AI leader with 6+ years taking enterprise AI from prototype to **monito
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ---
-
-*Production AI that ships. Roadmaps that get owned.*
