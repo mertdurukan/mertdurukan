@@ -32,4 +32,4 @@ Hands-on AI leader with **6+ years** taking enterprise AI from prototype to **mo
 
 ### 📬 Get in touch
 
-Open to **Senior / Lead / Staff AI Engineering** roles — remote or relocation. Best reached via [LinkedIn](https://www.linkedin.com/in/mertdurukan) or [mert@durukan.dev](mailto:mert@durukan.dev).
+Best reached via [LinkedIn](https://www.linkedin.com/in/mertdurukan) or [mert@durukan.dev](mailto:mert@durukan.dev).
