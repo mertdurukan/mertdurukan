@@ -25,4 +25,4 @@ Six years taking enterprise AI from prototype to monitored production — LLM pl
 
 ---
 
-Reach out via [LinkedIn](https://www.linkedin.com/in/mertdurukan) or email.
+Reach out via [LinkedIn](https://www.linkedin.com/in/mertdurukan) or mert@durukan.dev
