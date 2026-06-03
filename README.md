@@ -20,7 +20,9 @@ Six years taking enterprise AI from prototype to monitored production — LLM pl
 **Stack**
 
 **LLM & Agentic:** LangGraph, LangChain, RAG (hybrid + rerank), RAGAS, LLM-as-judge, MCP, Langfuse, pgvector, Qdrant  
+
 **ML / DL:** Python, PyTorch, TensorFlow, scikit-learn, Vision Transformers, CNNs, YOLO  
+
 **Platform & MLOps:** AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, FastAPI, CI/CD, on-prem deployment
 
 ---
